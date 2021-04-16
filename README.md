@@ -5,5 +5,5 @@ Convert test run results into html report
 
 DotNet ReportUnit ./pathtoTestResults
 
-Utility accepts list of xml/trx files that will be converted into html report
+Utility accepts directory with list of xml/trx files that will be converted into html report
 
