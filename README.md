@@ -1,4 +1,4 @@
-# TestsReportUtility
+# ReportUnit ported to .netCore
 Convert test run results into html report
 
 #Usage 
