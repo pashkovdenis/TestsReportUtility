@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Denis_Pashkov\\Downloads\\reportunit-master\\reportunit-master\\ReportUnit\\ReportUnit.csproj",
-        "projectName": "ReportUnit",
+        "projectName": "AutomotivePlatform.Utils.ReportUnitTool",
         "projectPath": "C:\\Users\\Denis_Pashkov\\Downloads\\reportunit-master\\reportunit-master\\ReportUnit\\ReportUnit.csproj",
         "packagesPath": "C:\\Users\\Denis_Pashkov\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Denis_Pashkov\\Downloads\\reportunit-master\\reportunit-master\\ReportUnit\\obj\\",
@@ -30,7 +30,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "D:\\localMYGet": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/asp-common/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

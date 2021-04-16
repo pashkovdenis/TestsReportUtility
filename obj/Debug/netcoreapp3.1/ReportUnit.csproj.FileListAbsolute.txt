@@ -99,7 +99,6 @@ C:\Users\Denis_Pashkov\Downloads\reportunit-master\reportunit-master\ReportUnit\
 C:\Users\Denis_Pashkov\Downloads\reportunit-master\reportunit-master\ReportUnit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Denis_Pashkov\Downloads\reportunit-master\reportunit-master\ReportUnit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
 C:\Users\Denis_Pashkov\Downloads\reportunit-master\reportunit-master\ReportUnit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Denis_Pashkov\Downloads\reportunit-master\reportunit-master\ReportUnit\obj\Debug\netcoreapp3.1\ReportUnit.csprojAssemblyReference.cache
 C:\Users\Denis_Pashkov\Downloads\reportunit-master\reportunit-master\ReportUnit\obj\Debug\netcoreapp3.1\ReportUnit.csproj.CoreCompileInputs.cache
 C:\Users\Denis_Pashkov\Downloads\reportunit-master\reportunit-master\ReportUnit\obj\Debug\netcoreapp3.1\ReportUnit.csproj.CopyComplete
 C:\Users\Denis_Pashkov\Downloads\reportunit-master\reportunit-master\ReportUnit\obj\Debug\netcoreapp3.1\ReportUnit.dll

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AutomotivePlatform.Utils.ReportUnit</id>
+    <version>1.0.0</version>
+    <authors>ParkNow Group</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Used to generate html report from test runs</description>
+    <copyright>ParkNow Group 2021</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Mvc.Razor" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Razor.Extensions" version="5.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.RazorPages" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Razor.Language" version="5.0.5" exclude="Build,Analyzers" />
+        <dependency id="RazorEngine.NetCore" version="3.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Denis_Pashkov\Downloads\reportunit-master\reportunit-master\ReportUnit\bin\Debug\netcoreapp3.1\ReportUnit.runtimeconfig.json" target="lib\netcoreapp3.1\ReportUnit.runtimeconfig.json" />
+    <file src="C:\Users\Denis_Pashkov\Downloads\reportunit-master\reportunit-master\ReportUnit\bin\Debug\netcoreapp3.1\ReportUnit.dll" target="lib\netcoreapp3.1\ReportUnit.dll" />
+  </files>
+</package>
